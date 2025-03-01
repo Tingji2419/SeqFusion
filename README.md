@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="650px" height="auto" src="assests/teaser.png"></a>
+  <img width="450px" height="auto" src="assests/teaser.png"></a>
 </div>
 
 
@@ -17,10 +17,7 @@
     <p>
         📑 <a href="https://arxiv.org/abs/xxx">[Paper]</a> [<b>Code</b>]</a>
     <p>
-<!--     <p>
-        <b>English</b> |
-        <a href="https://github.com/zhangyikaii/Model-Spider/edit/main/README_CN.md">中文</a>
-    <p> -->
+
 </h4>
 
 <details>
