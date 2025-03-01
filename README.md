@@ -48,10 +48,8 @@ In this repo, you can figure out:
 - [Table of Contents](#table-of-contents)
 - [Zero-shot Forecasting Performance](#zero-shot-forecasting-performance)
 - [Code Implementation](#code-implementation)
-  - [Quick Start \& Reproduce](#quick-start--reproduce)
 - [Reproduce for Other Baseline Methods](#reproduce-for-other-baseline-methods)
 - [Contributing](#contributing)
-- [Citing Model Spider](#citing-model-spider)
 
 &nbsp;
 
@@ -265,8 +263,6 @@ More results can be found in the paper.
 
 ## Code Implementation
 
-### Quick Start & Reproduce
-
 - Set up the environment:
     ```bash
     git clone https://github.com/Tingji2419/SeqFusion.git
@@ -285,6 +281,11 @@ More results can be found in the paper.
     ```
     The results will be displayed on the screen.
 &nbsp;
+
+
+## Reproduce for Other Baseline Methods
+
+Coming soon.
 
 
 ## Contributing
