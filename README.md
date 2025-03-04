@@ -10,7 +10,7 @@
 </div>
 <h3 align="center">
     <p>
-        SEQFUSION: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting
+        SeqFusion: Sequential Fusion of Pre-Trained Models for Zero-Shot Time-Series Forecasting
     <p>
 </h3>
 <h4 align="center">
@@ -23,10 +23,10 @@
 <details>
     <summary>Detailed Introduction</summary>
     <p>
-    SEQFUSION, a novel framework that collects and fuses diverse pre-trained models (PTMs) sequentially for <b>zero-shot forecasting without collecting diverse pre-training data</b>. 
+    SeqFusion, a novel framework that collects and fuses diverse pre-trained models (PTMs) sequentially for <b>zero-shot forecasting without collecting diverse pre-training data</b>. 
     <br>
     <br>
-    Based on the specific temporal characteristics of the target time series, SEQFUSION <b>selects the most suitable PTMs for your data</b>, performs sequential predictions, and fuses all the predictions while using minimal data to protect privacy. Experiments demonstrate that SEQFUSION achieves competitive
+    Based on the specific temporal characteristics of the target time series, SeqFusion <b>selects the most suitable PTMs for your data</b>, performs sequential predictions, and fuses all the predictions while using minimal data to protect privacy. Experiments demonstrate that SeqFusion achieves competitive
     accuracy in zero-shot forecasting compared to state-of-the-art methods
     </p>
 </details>
@@ -238,7 +238,7 @@ Performance comparisons of **3 kinds of baseline approaches** and SeqFusion on 7
     <td>* + 23.50</td>
   </tr>
   <tr>
-    <td><b>SEQFUSION</b></td>
+    <td><b>SeqFusion</b></td>
     <td><b>PTMs</b></td>
     <td><b>0.6029</b></td>
     <td><b>0.6001</b></td>
