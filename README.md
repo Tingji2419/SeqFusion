@@ -260,7 +260,7 @@ More results can be found in the paper.
 
 ## Code Implementation
 
-- Set up the environment:
+- Set up the environment (Please make sure the [torch](https://pytorch.org/get-started/previous-versions/) version is compatible with the GPU):
     ```bash
     git clone https://github.com/Tingji2419/SeqFusion.git
     cd SeqFusion

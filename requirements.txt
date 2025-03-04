@@ -9,7 +9,6 @@ patool==1.12
 pmdarima==2.0.4
 prophet==1.1.6
 python_dateutil==2.8.2
-PyYAML==6.0.1
 PyYAML==6.0.2
 reformer_pytorch==1.4.4
 scikit_learn==1.2.2
