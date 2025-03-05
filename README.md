@@ -15,7 +15,7 @@
 </h3>
 <h4 align="center">
     <p>
-        📑 <a href="https://arxiv.org/abs/xxx">[Paper]</a> [<b>Code</b>]</a>
+        📑 <a href="https://arxiv.org/abs/2503.02836">[Paper]</a> [<b>Code</b>]</a>
     <p>
 
 </h4>
