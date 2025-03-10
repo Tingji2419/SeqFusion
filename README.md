@@ -32,7 +32,7 @@
 </details>
 
 In this repo, you can figure out:
-* **Achieving SOTA zero-shot forecating performance with a few lightweight pre-trained models**.
+* **Achieving SOTA zero-shot forecasting performance with a few lightweight pre-trained models**.
 * Implementations of **Pre-trained Model Selection** for time-series forecasting, and enjoy its user-friendly inference capabilities.
 * Feel free to **customize** the application scenarios of **SeqFusion**!
 <!--
